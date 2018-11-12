@@ -1,1 +1,1 @@
-# music_theory_cli
+The hope for this app is to make a command line interface that allows you to tranpose note from one key signature into another.
